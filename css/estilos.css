@@ -5,3 +5,14 @@ body{
 body>p {
     font-family: 'Courier New', Courier, monospace;
 }
+#footer{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+ul li{
+    color: gray;
+}
+#footer p{
+    color: azure;
+    text-align: center;
+}
